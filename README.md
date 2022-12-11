@@ -15,6 +15,8 @@ You can start building 😍😍
 
 # Installation
 
+Also, check out our [YouTube](https://www.youtube.com/watch?v=NmXLDEeabLA) for getting started with obbkit cli.
+
 ### Go
  
 Install
@@ -93,4 +95,4 @@ $ go install
 ```
 # License
 
-obbkit is released under MIT license. See [LICENSE.txt](https://github.com/Onboardbase/obbkit/blob/main/LICENSE)
+obbkit is released under the MIT license. See [LICENSE.txt](https://github.com/Onboardbase/obbkit/blob/main/LICENSE)
